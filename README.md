@@ -25,8 +25,8 @@ Já para a utilização do Language Studio, depois de realizar o passo a passo d
 A solução foi criar o recurso pelo Language Studio, opção Settings/Resources. Não funcionou na primeira vez, foi necessário repetir umas 3 vezes pois apresentava erro referente a confirmação de política, e ela estava selecionada.
 Bom, após 3 tentativas, o recurso foi criado quando fui selecionar o recurso estava disponível também o recurso criado inicialmente no portal do Azure.  Vai entender.😕
 
-![Speech](inputs/image-1.png)
+![Speech](inputs/image.png)
 
-![Language Studio 1](inputs\image-1.png)
+![Language 1](inputs/image-1.png)
 
-![Language Studio 2](inputs\image-2.png)
+![Language 2](inputs/image-2.png)
